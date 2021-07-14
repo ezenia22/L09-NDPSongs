@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">L09-NDPSongs</string>
+    <string name="songT">Song Title</string>
+    <string name="songID">Song ID</string>
+    <string name="singers">Singers</string>
+    <string name="yr">Year</string>
+    <string name="star">Stars</string>
+    <string name="etSong">Enter song title here</string>
+    <string name="etSinger">Enter singers\'s name here</string>
+    <string name="etYr">Enter year of release here</string>
+    <string name="inst">insert</string>
+    <string name="showL">show list</string>
+    <string name="upd">update</string>
+    <string name="dlt">delete</string>
+    <string name="cnl">cancel</string>
+    <string name="showAllStars">show all songs with 5 stars</string>
+</resources>
